@@ -5,7 +5,6 @@ from PIL import Image, ImageTk
 from Data.modulos.aux_Funcs import Aux_func
 
 Aux_Func = Aux_func()
-
 # Modelo de classe que herda direto de tk.Tk()
 class UI(tk.Tk):
     def __init__(self):
@@ -623,6 +622,7 @@ class UI(tk.Tk):
             self.new_budget = janela
             Search_value = ""
             if(status_janela == 'Criar janela'):
+                pass
 
 
     def menus(self,window_menu):

@@ -4,20 +4,20 @@ class Aux_func():
     """docstring for Aux_func."""
 
     def Carregar_config(self):
-            with open('Orçamentos/Data/config.json', 'r+', encoding ='utf8') as Data_config:
+            with open('Data/config.json', 'r+', encoding ='utf8') as Data_config:
                 configs = json.load(Data_config)
                 # print(configs)
                 return configs
 
 
     def Abrir_Json(self):
-        with open('Orçamentos\Data\Data.json', 'r+', encoding ='utf8') as Data_json:
+        with open('Data\Data.json', 'r+', encoding ='utf8') as Data_json:
             Data = json.load(Data_json)
             return Data
 
 
     def Editar_Json(self, Dados_alterados):
-        with open('Orçamentos\Data\Data.json', 'w', encoding ='utf8') as Data_json:
+        with open('Data\Data.json', 'w', encoding ='utf8') as Data_json:
             json.dump(Dados_alterados, Data_json, indent=3)
 
 
