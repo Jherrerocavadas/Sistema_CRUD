@@ -1,0 +1,65 @@
+{
+   "Usuarios": {
+      "0": {
+         "Username": "",
+         "Password": "",
+         "Permissions": "Admin"
+      }
+   },
+   "Funcionarios": {
+      "0": {
+         "Nome": "IIRRA;s",
+         "Cargo": "",
+         "Telefone": "",
+         "Telefone2": "",
+         "Email": "",
+         "Endereco": "",
+         "RG": "",
+         "CPF_CNPJ": "",
+         "Cadastrado_por": "",
+         "Area_que_atua": ""
+      },
+      "1": {
+         "Nome": "df",
+         "Cargo": "h",
+         "Telefone": "h",
+         "Telefone2": "h",
+         "Email": "h",
+         "Endereco": "h",
+         "RG": "hh",
+         "CPF_CNPJ": "h",
+         "Cadastrado_por": "",
+         "Area_que_atua": ""
+      },
+      "2": {
+         "Nome": "",
+         "Cargo": "",
+         "Telefone": "",
+         "Telefone2": "",
+         "Email": "",
+         "Endereco": "",
+         "RG": "",
+         "CPF_CNPJ": "",
+         "Cadastrado_por": "",
+         "Area_que_atua": "Engenharia"
+      },
+      "3": {
+         "Nome": "",
+         "Cargo": "",
+         "Telefone": "",
+         "Telefone2": "",
+         "Email": "",
+         "Endereco": "",
+         "RG": "",
+         "CPF_CNPJ": "",
+         "Cadastrado_por": "",
+         "Area_que_atua": "Arquitetura"
+      }
+   },
+   "Taxas": {
+      "Taxa": "IIrra",
+      "Valor_taxa": "15",
+      "OPA": "1321"
+   },
+   "Tarefas": {}
+}

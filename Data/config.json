@@ -1,0 +1,19 @@
+{
+  "Version": "v2.0new",
+  "Logo_path": "Orçamentos/Data/Imagens/Logo.png",
+  "Perms":["Arquitetura", "Engenharia"],
+  "Insert_data_type_value" : ["Novo Usuário", "Novo Funcionário", "Nova Taxa", "Nova Tarefa"],
+  "Edit_data_type_value" : ["Usuários", "Funcionários", "Taxas", "Tarefas"],
+  "Search_data_type_value" : ["Usuários", "Funcionários", "Taxas", "Tarefas"],
+  "Delete_data_type_value" : ["Deletar Usuário", "Deletar Funcionário", "Deletar Taxa", "Deletar Tarefa"]
+
+
+
+
+
+
+
+
+
+
+}
