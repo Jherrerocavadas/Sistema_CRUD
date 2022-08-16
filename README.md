@@ -23,15 +23,12 @@ Observação: Nem todos os recursos podem estar implementados e/ou funcionando c
 # Índice
 
 * [Sobre](#sobre)
-* [Índice](#indice)
+* [Índice](#índice)
 * [Funcionalidades](#funcionalidades)
-* [Demonstração](#demonstracao)
-* [Pré Requisitos](#pre-requisitos)
-  * [Hardware](#hardware)
-  * [Software](#software)
-  * [Outros](#outros)
+* [Demonstração](#demonstração)
+* [Pré Requisitos](#pré-requisitos)
 * [Tecnologias](#tecnologias)
-* [Autores](#autores)
+* [Autor](#autor)
 
 
 # Funcionalidades
@@ -51,7 +48,9 @@ Observação: Nem todos os recursos podem estar implementados e/ou funcionando c
 # Demonstração
 <div align = "center">
 
-<div> Imagens da tela
+<div>
+<h3>Imagens da tela</h3>
+<br>
 <img src="README_files/Imagens1.png", alt="Conjunto de imagens das telas - 1">
 <img src="README_files/Imagens2.png", alt="Conjunto de imagens das telas - 2">
 </div>
